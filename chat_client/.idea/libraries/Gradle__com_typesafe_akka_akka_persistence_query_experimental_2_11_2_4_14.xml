@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.typesafe.akka:akka-persistence-query-experimental_2.11:2.4.14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-persistence-query-experimental_2.11/2.4.14/e96ef681900ad5b07768874658faec1dd8452c32/akka-persistence-query-experimental_2.11-2.4.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-persistence-query-experimental_2.11/2.4.14/769ea9b7bed1880323a9c1561323c2a09acbf319/akka-persistence-query-experimental_2.11-2.4.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
