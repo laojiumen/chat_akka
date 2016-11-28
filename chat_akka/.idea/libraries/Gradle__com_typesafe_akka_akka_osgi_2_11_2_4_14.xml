@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.typesafe.akka:akka-osgi_2.11:2.4.14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-osgi_2.11/2.4.14/f26cb94c31da6bcfad950cc822d91ffcbcd61f2b/akka-osgi_2.11-2.4.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-osgi_2.11/2.4.14/82d0421fddfb52584a3c982b2f782cf9dcf7c24b/akka-osgi_2.11-2.4.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
